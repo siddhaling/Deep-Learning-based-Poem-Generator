@@ -42,8 +42,8 @@ path of the dataset and provide it there.
 4. Then run the cells and get the output.
 
 Supervisor of this Project:
-Dr. Siddhaling Urolagin,
-PhD, Post-Doc, (Machine Learning),
-dr.siddhaling@gmail.com,
-www.github.com/siddhaling
-www.researchreader.com
+Dr. Siddhaling Urolagin,/
+PhD, Post-Doc, (Machine Learning),/
+dr.siddhaling@gmail.com,/
+www.github.com/siddhaling/
+www.researchreader.com/
