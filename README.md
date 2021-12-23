@@ -41,9 +41,12 @@ all the cells one after the other.
 path of the dataset and provide it there.
 4. Then run the cells and get the output.
 
-Supervisor of this Project:
-Dr. Siddhaling Urolagin,/
-PhD, Post-Doc, (Machine Learning),/
-dr.siddhaling@gmail.com,/
-www.github.com/siddhaling/
-www.researchreader.com/
+# Further Projects and Contact
+www.researchreader.com
+
+https://medium.com/@dr.siddhaling
+
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, Machine Learning and Data Science Expert,\
+Passionate Researcher, Focus on Deep Learning and its applications,\
+dr.siddhaling@gmail.com
